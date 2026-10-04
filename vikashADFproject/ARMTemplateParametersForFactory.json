@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "vikashADFproject"
+		},
+		"ls_azursql_password": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"ls_onprem_file_password": {
+			"value": ""
+		},
+		"ls_azursql_properties_typeProperties_server": {
+			"value": "aproject.database.windows.net"
+		},
+		"ls_azursql_properties_typeProperties_database": {
+			"value": "adfprojectdb"
+		},
+		"ls_azursql_properties_typeProperties_userName": {
+			"value": "adminadmin"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://adfvikashstorage.dfs.core.windows.net/"
+		},
+		"ls_github_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
+		"ls_onprem_file_properties_typeProperties_host": {
+			"value": "C:\\vikashfiles"
+		},
+		"ls_onprem_file_properties_typeProperties_userId": {
+			"value": "desktop-kkmfet2\\hp 840 g4"
+		}
+	}
+}
