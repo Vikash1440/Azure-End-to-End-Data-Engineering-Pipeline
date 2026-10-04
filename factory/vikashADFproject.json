@@ -1,0 +1,15 @@
+{
+	"name": "vikashADFproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d467c42-5491-4146-9ec9-6c89c5057eb7",
+		"tenantId": "06581c04-6cdc-44c0-ab8e-360ea29be4d3"
+	}
+}
