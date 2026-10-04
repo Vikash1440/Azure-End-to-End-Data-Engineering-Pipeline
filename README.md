@@ -1,4 +1,4 @@
-# Azure Data Factory Project
+# Azure-End-to-End-Data-Engineering-Pipeline
 
 This repository contains an Azure Data Factory (ADF) project designed to ingest data from multiple sources, transform it, and load it into Azure storage and Azure SQL Database. The project uses a combination of copy activities, lookup activities, and mapping data flows to move and process data end-to-end.
 
